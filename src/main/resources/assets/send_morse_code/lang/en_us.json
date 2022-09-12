@@ -1,0 +1,6 @@
+{
+  "key.category.send_morse_code": "MorseCode Mod",
+  "key.send_morse_code.toggle": "toggle",
+  "toggle.send_morse_code.on": "§cMorseCode [ON]",
+  "toggle.send_morse_code.off": "§9MorseCode [OFF]"
+}
